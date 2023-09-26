@@ -11,4 +11,21 @@
 	color:white;
 	text-decoration:none;
 }
+
+.summary,sections{
+	padding:20px;
+}
+
+.sections{
+	padding:20px;
+}
+
+.footer,Aside{
+	text-align:center;
+	padding:20px
+}
+
+.Aside{
+	text-align:center;
+}
 /* Your CSS Code here. */
